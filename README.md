@@ -11,6 +11,7 @@
 - [Models](#models)
   - [Magnetic Split Design](#magnetic-split-design)
     - [Modular design](#modular-design)
+    - [Magnetic](#magnetic)
     - [360° Spin](#360%c2%b0-spin)
     - [Bayonet Mount Design](#bayonet-mount-design)
 
@@ -48,6 +49,12 @@ _Two-piece split design_ dosing funnel characterized by a __compact__ design, __
 
 <span style="display:block;text-align:center">
     <img src="./assets/bes875xl-dosing-rings-r3smd-feature01.png" alt="Breville/Sage Dosing Rings Magnetic split design illustration - modularity">
+</span>
+
+#### Magnetic
+
+<span style="display:block;text-align:center">
+    <img src="./assets/bes875xl-dosing-rings-r3smd-feature03.png" alt="Breville/Sage Dosing Rings Magnetic split design illustration - magnetic">
 </span>
 
 #### 360° Spin
