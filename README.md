@@ -10,6 +10,7 @@
 - [Compatibility](#compatibility)
 - [Models](#models)
   - [Magnetic Split Design](#magnetic-split-design)
+  - [Modular design](#modular-design)
   - [Bayonet Mount Design](#bayonet-mount-design)
 
 ## Introduction
@@ -41,5 +42,11 @@ Despite it's large compatibility, has to be kept in mind that the attached desig
 </span>
 
 _Two-piece split design_ dosing funnel characterized by a __compact__ design, __beautiful chamfer edges__, __two mode operations__, __inner rim seating__ and __magnetic automatic snap__. The funnel thanks to its innovatible split design, can be operated as a _standalone dosing funnel_, with both pieces attached, or with _just one_ allowing to use the built-in breville grinder without crashing with the grinder fork for a mess-free shot prep. The two mating parts automatically snaps together thanks to their four neodymium high-stregth magnets.
+
+### Modular design
+
+<span style="display:block;text-align:center">
+    <img src="./assets/bes875xl-dosing-rings-r3smd-feature01.png" alt="Breville/Sage Dosing Rings Magnetic split design illustration - modularity">
+</span>
 
 ### Bayonet Mount Design
