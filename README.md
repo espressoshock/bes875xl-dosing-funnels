@@ -18,7 +18,25 @@ Grinding coffee directly into the portafilter can be messy and wasteful  as the 
 
 ## Compatibility
 
+The proposed dosing funnel design solutions have been specifically designed and engineered for the BES875XL but are compatible with any Breville/Sage appliances that utilized the _portafilter Model: __SP0001515___.
+
+Compatible models:
+* BES870XL
+* BES800XL
+* Infuser
+* BES840XL
+* Duo-Temp BES810BSS
+
+> For a more detailed and updated list of compatible portafilter and appliances, please refer's to the [manufacturer's website](https://www.breville.com/us/en/parts-accessories/parts/sp0001515.html)
+
+Despite it's large compatibility, has to be kept in mind that the attached designs have been engineered with specific mechanical constraints defined mostly by the [Locator For Porta Filter Model: SP0001558]((https://www.ereplacementparts.com/locator-for-porta-filter-p-1810332.html?osCsid=m8t7f3h5rjta44luisd92trhb4))
+
 ## Models
+
 ### Magnetic Split Design
+
+<span style="display:block;text-align:center">
+    <img src="./assets/bes875xl-dosing-rings-r3smd-illustration01.png" alt="Breville/Sage Dosing Rings Magnetic split design illustration">
+</span>
 
 ### Bayonet Mount Design
