@@ -14,6 +14,7 @@
     - [Magnetic](#magnetic)
     - [Grinder's clereance](#grinders-clereance)
     - [360° Spin](#360%c2%b0-spin)
+    - [Drawings](#drawings)
     - [Additional pictures](#additional-pictures)
     - [Bayonet Mount Design](#bayonet-mount-design)
 
@@ -70,6 +71,16 @@ _Two-piece split design_ dosing funnel characterized by a __compact__ design, __
 <span style="display:block;text-align:center">
     <img src="./assets/bes875xl-dosing-rings-r3smd-feature02.png" alt="Breville/Sage Dosing Rings Magnetic split design illustration - 360° spin">
 </span>
+
+#### Drawings
+
+<span style="display:block;text-align:center">
+    <img src="./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.PNG" alt="Breville/Sage Dosing Rings Magnetic split design drawing">
+</span>
+
+Drawings available for download as:
+* __.PDF__: [here](./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.pdf)
+* __.PNG__: [here](./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.PNG)
 
 #### Additional pictures
 
