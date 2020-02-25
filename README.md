@@ -75,12 +75,12 @@ _Two-piece split design_ dosing funnel characterized by a __compact__ design, __
 #### Drawings
 
 <span style="display:block;text-align:center">
-    <img src="./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.png" alt="Breville/Sage Dosing Rings Magnetic split design drawing">
+    <img src="./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.PNG" alt="Breville/Sage Dosing Rings Magnetic split design drawing">
 </span>
 
 Drawings available for download as:
 * __.PDF__: [here](./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.pdf)
-* __.PNG__: [here](./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.png)
+* __.PNG__: [here](./bes875xl-r3smd-a/bes875xl-r3smd-a-drawing.PNG)
 
 #### Additional pictures
 
